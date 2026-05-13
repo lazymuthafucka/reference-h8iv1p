@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lazymuthafucka.github.io/reference-h8iv1p/sitemap.xml
